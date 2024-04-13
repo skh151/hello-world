@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for SWARAJ-KHATI-DEVOPS 1.4 Learning</h1>
+    <h1>New user Register for NIRAN_BRO-DEVOPS 1.4 Learning</h1>
     <p>Please fill in this form to create an account with Swaraj.</p>
     <hr>
      
